@@ -1,6 +1,7 @@
 week1 
+![tatvaweek1](https://user-images.githubusercontent.com/110102619/222625313-685214e7-4057-4972-ad03-3bcedc9477d1.PNG)
 
-![ttweek1](https://user-images.githubusercontent.com/110102619/222620008-a4a5c088-86cc-48c0-b756-f0ae584b4e6a.PNG)
+
 
 
 
