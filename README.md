@@ -1,3 +1,9 @@
+week1 
+
+![ttweek1](https://user-images.githubusercontent.com/110102619/222620008-a4a5c088-86cc-48c0-b756-f0ae584b4e6a.PNG)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
