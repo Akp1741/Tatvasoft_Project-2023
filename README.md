@@ -1,10 +1,3 @@
-week1 
-![tatvaweek1](https://user-images.githubusercontent.com/110102619/222625313-685214e7-4057-4972-ad03-3bcedc9477d1.PNG)
-
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
